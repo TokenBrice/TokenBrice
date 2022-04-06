@@ -8,6 +8,3 @@ For more information, check:
 
 -   [My personal blog](https://tokenbrice.xyz)
 -   My [Twitter](https://twitter.com/tokenbrice)
--   [How I can help your DeFi project](https://tokenbrice.xyz/about/services/)
-
-You'll find there my latest content & frequent updates about the project I'm working on.
