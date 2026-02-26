@@ -2,7 +2,7 @@
 
 # Welcome 👋
 
-I'm Brice, a digital marketer specializing in growing communities for technically-focused projects. Since the last two years, I've been focusing solely on the Ethereum decentralised space. ⟠
+Mad stablecoin scientist, unstoppable code vanguard, liquidity shaper and much more. ⟠
 
 For more information, check:
 
