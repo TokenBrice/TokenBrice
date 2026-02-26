@@ -1,4 +1,4 @@
-![tokenbrice-banner](https://github.com/TokenBrice/blog/blob/master/static/img/main/banner.png)
+![tokenbrice-banner](https://pbs.twimg.com/profile_banners/2539578409/1769695121/1080x360)
 
 # Welcome 👋
 
@@ -6,5 +6,6 @@ Mad stablecoin scientist, unstoppable code vanguard, liquidity shaper and much m
 
 For more information, check:
 
--   [My personal blog](https://tokenbrice.xyz)
--   My [Twitter](https://twitter.com/tokenbrice)
+-   [My blog](https://tokenbrice.xyz)
+-   [My Twitter](https://twitter.com/tokenbrice)
+-   [Pharos Stablecoin Dashboard](https://pharos.watch)
