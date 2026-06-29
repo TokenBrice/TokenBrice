@@ -22,6 +22,7 @@ I care about infrastructure that makes risk, censorship resistance, fraud resist
 | [blog](https://github.com/TokenBrice/blog) | Source for tokenbrice.xyz, built as a privacy-conscious static site. |
 | [polaris-docs](https://github.com/TokenBrice/polaris-docs) | Nextra documentation site for Polaris Finance. |
 | [royco-pharos](https://github.com/TokenBrice/royco-pharos) | Local-first Royco Dawn tranche scoring prototype using Pharos risk inputs. |
+| [claude-ville](https://github.com/TokenBrice/claude-ville) | Maintained fork for a local-first dashboard covering Claude Code, Codex, Gemini, Kimi, and OpenCode sessions. |
 
 ## Elsewhere
 
